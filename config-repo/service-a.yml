@@ -1,4 +1,4 @@
 service:
   name: "Servicio A"
   description: "Microservicio de pedidos"
-  custom-message: "Hola desde el Servicio A"
+  custom-message: "Hola desde el Servicio A - nueva version"
