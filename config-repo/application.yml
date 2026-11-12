@@ -1,0 +1,3 @@
+app:
+  message: "Configuracion centralizada"
+  environment: "desarrollo"

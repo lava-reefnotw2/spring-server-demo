@@ -1,0 +1,6 @@
+service:
+  name: "Servicio B"
+  description: "Microservicio de inventario"
+  custom-message: "Hola desde el Servicio B"
+app:
+  environment: "pruebas"
